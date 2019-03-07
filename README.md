@@ -1,2 +1,1 @@
-# katika6
-App
+# Katika6
